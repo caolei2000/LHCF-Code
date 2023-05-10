@@ -1,5 +1,5 @@
 # LHCF-Code
-A matlab implement for robust subspace clustering by LHCF  
+A matlab implementation for robust subspace clustering by LHCF  
 
 ## Usage
 
