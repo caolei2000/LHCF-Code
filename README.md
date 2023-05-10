@@ -3,7 +3,7 @@ A matlab implementation for robust subspace clustering by LHCF
 
 ## Usage
 
-Running the `run_YaleB.mlx` file directly.
+Run the `run_YaleB.mlx` real-time script directly or call the `LHCF.m` function file by yourself.
 
 ## Citation
 
