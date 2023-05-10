@@ -9,7 +9,7 @@ Run the `run_YaleB.mlx` real-time script directly or call the `LHCF.m` function 
 
 If you use this code, please cite it:  
 
-```
+```bibtex
 @ARTICLE{10113174,
   author={Cao, Lei and Shi, Long and Wang, Jun and Yang, Zhendong and Chen, Badong},
   journal={IEEE Signal Processing Letters}, 
